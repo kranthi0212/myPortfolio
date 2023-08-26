@@ -113,7 +113,7 @@ export const Projects = () => {
                   Geek Connect
                 </h2>
                 <p>
-                ChatGPT
+                
 
 Geek Connekt is a web application that creates a private social network, uniting students, teachers, and institution management for streamlined information sharing and communication.
                 </p>
